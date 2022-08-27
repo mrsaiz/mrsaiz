@@ -6,7 +6,7 @@
 
 ### Who I am
 
-An engineer passionate about cloud infrastructure
+An engineer passionate about cloud infrastructure.
 
 ### What I do
 
