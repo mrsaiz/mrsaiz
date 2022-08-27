@@ -15,5 +15,5 @@ Terraform, serverless architectures and helping to create secure, scalable and h
 
 ### My github stats 📈 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrsaiz&show_icons=true&theme=gotham" alt="mrsaiz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrsaiz&show_icons=true&theme=gotham&count_private=true" alt="mrsaiz" />
 
