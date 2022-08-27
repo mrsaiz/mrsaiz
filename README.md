@@ -4,7 +4,7 @@
 </a>
 <br>
 
-### Who I am 👨
+### Who I am 🧔
 
 An engineer passionate about cloud infrastructure.
 
