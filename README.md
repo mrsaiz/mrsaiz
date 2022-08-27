@@ -1,4 +1,4 @@
-<h2> Hello, and welcome! 👋</h2>
+<h2> Hello, and welcome! <a href="https://mrsaiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
 <a href= "https://www.linkedin.com/in/sergio-saiz/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
