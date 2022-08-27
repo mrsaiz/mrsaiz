@@ -8,7 +8,7 @@
 
 An engineer passionate about cloud infrastructure.
 
-### What I do 👷
+### What I do 👨‍💻
 
 Terraform, serverless architectures and helping to create secure, scalable and highly available infrastructures.
 
