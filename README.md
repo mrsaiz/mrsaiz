@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <br>
-<br>
 
 ### Who I am
 
