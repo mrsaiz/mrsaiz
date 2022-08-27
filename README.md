@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hello, and welcome! 👋</h2>
+<a href= "https://www.linkedin.com/in/sergio-saiz/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<br>
+<br>
 
-<!--
-**mrsaiz/mrsaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who I am
 
-Here are some ideas to get you started:
+An engineer passionate about cloud infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+Terraform, serverless architectures and helping to create secure, scalable and highly available infrastructures.
