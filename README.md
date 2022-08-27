@@ -4,16 +4,16 @@
 </a>
 <br>
 
-### Who I am
+### Who I am 👨
 
 An engineer passionate about cloud infrastructure.
 
-### What I do
+### What I do 👷
 
 Terraform, serverless architectures and helping to create secure, scalable and highly available infrastructures.
 
 
-📈 my github stats
+### My github stats 📈 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrsaiz&show_icons=true&theme=gotham" alt="mrsaiz" />
 
