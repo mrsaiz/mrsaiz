@@ -1,16 +1,23 @@
 <h2> Hello, and welcome! <a href="https://mrsaiz.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h2>
-<a href= "https://www.linkedin.com/in/sergio-saiz/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
 <br>
 
 ### Who I am 🧔
 
-An engineer passionate about cloud infrastructure.
+An engineer passionate about cloud infrastructure. Currently leading a team that helps developers to deliver value very fast by using DevOps practices.
+
+I have 10 years of experience in DevOps and Cloud Infrastructure. I am passionate about helping teams to optimize their development processes and achieve faster time-to-market. When I'm not working, I enjoy playing with my family, doing sports and learning about everything.
+
+<a href= "https://www.linkedin.com/in/sergio-saiz/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+
+
 
 ### What I do 👨‍💻
 
-Terraform, serverless architectures and helping to create secure, scalable and highly available infrastructures.
+A Development Platform, cloud-based, that provides a complete development environment for our teams. It includes all the tools necessary to develop, test, and deploy applications quickly and efficiently. Our platform is built on top of AWS services like Elastic Compute Cloud (EC2), Elastic Container Service (ECS), RDS, Lambda, etc...
+
+To orchestrate the process I use technologies like Terraform, Helm, GitHub Actions, Jenkins, ArgoCD.
 
 
 ### My github stats 📈 
